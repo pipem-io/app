@@ -1,4 +1,4 @@
-# Pipem.io - Pipeline Monitoring - App
+# Pipem.io - App
 
 # Install
 

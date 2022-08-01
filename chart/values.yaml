@@ -11,3 +11,8 @@ app:
 
 api:
   baseUrl: https://api.pipem.io
+
+ingress:
+  kong: true
+  nginx: false
+  traefik: false
