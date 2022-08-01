@@ -1,4 +1,4 @@
-# Pipem.io - Pipeline Monitoring - Provider Google
+# Pipem.io - Pipeline Monitoring - App
 
 # Install
 
