@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: app
-          image: {{ .Values.images.app }}
+          image: {{ .Values.image }}:{{ .Values.version }}
           imagePullPolicy: IfNotPresent
           volumeMounts:
             - name: config-volume
