@@ -1,0 +1,13 @@
+image: docker.pipem.io/app
+version: VERSION
+
+replicas: 1
+
+log:
+  level: "info"
+
+app:
+  domain: app.pipem.io
+
+api:
+  baseUrl: https://api.pipem.io
