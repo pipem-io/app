@@ -8,6 +8,6 @@ version: VERSION
 appVersion: VERSION
 
 maintainers:
-  - name: Mauro Sala
-    email: mau@pipem.io
+  - name: Pipem.io
+    email: info@pipem.io
     url: https://pipem.io
