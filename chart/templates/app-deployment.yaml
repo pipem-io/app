@@ -25,11 +25,11 @@ spec:
               subPath: runtime-config.js
           resources:
             requests:
-              memory: "32Mi"
-              cpu: "10m"
+              memory: "16Mi"
+              cpu: "2m"
             limits:
-              memory: "256Mi"
-              cpu: "100m"
+              memory: "64Mi"
+              cpu: "30m"
           ports:
             - containerPort: 8080
           livenessProbe:
